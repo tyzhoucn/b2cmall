@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/b2cmall-common/b2cmall-common.iml" filepath="$PROJECT_DIR$/b2cmall-common/b2cmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2cmall-dubbo-admin/b2cmall-dubbo-admin.iml" filepath="$PROJECT_DIR$/b2cmall-dubbo-admin/b2cmall-dubbo-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2cmall-manager/b2cmall-manager.iml" filepath="$PROJECT_DIR$/b2cmall-manager/b2cmall-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-dao/b2cmall-manager-dao.iml" filepath="$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-dao/b2cmall-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-interface/b2cmall-manager-interface.iml" filepath="$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-interface/b2cmall-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-pojo/b2cmall-manager-pojo.iml" filepath="$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-pojo/b2cmall-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-service/b2cmall-manager-service.iml" filepath="$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-service/b2cmall-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-web/b2cmall-manager-web.iml" filepath="$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-web/b2cmall-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2cmall-parent/b2cmall-parent.iml" filepath="$PROJECT_DIR$/b2cmall-parent/b2cmall-parent.iml" />
+    </modules>
+  </component>
+</project>

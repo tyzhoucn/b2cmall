@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>b2cmall-parent</artifactId>
+        <groupId>com.jacklin.b2cmall</groupId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../b2cmall-parent/pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>b2cmall-manager</artifactId>
+
+    <packaging>pom</packaging>
+    <name>b2cmall-manager</name>
+    <modules>
+        <module>b2cmall-manager-pojo</module>
+        <module>b2cmall-manager-dao</module>
+        <module>b2cmall-manager-interface</module>
+        <module>b2cmall-manager-web</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <!--依赖公共模块-->
+        <dependency>
+            <groupId>com.jacklin.b2cmall</groupId>
+            <artifactId>b2cmall-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+</project>

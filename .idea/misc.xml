@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/b2cmall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/b2cmall-manager/b2cmall-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/b2cmall-dubbo-admin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
